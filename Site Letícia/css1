@@ -1,0 +1,73 @@
+body {
+    background-image: url(coracaofofo.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    margin: 20px;
+    
+}
+
+img {
+    width: 40%;
+}
+
+hr {
+    background-color: black;
+    height: 10000px;
+    width: 10px;
+}
+
+/* Estilo para a tabela */
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+    /* Remove o espaço entre as bordas das células */
+
+}
+
+
+th {
+    /*parte de cima da tabela*/
+    width: 100px;
+    color: red;
+    border: 5px solid;
+}
+
+tr {
+    /*parte de baixo da tabela sem intercessões*/
+    width: 100px;
+    color: black;
+    border: 5px solid;
+}
+
+td {
+    /*parte de baixo da tabela com intercessões*/
+    width: 100px;
+    color: blue;
+    border: 5px solid;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* 2 colunas de largura igual */
+    gap: 10px;
+    /* Espaçamento entre tabelas */
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
