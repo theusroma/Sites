@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula16/08</title>
+</head>
+
+<body>
+
+    <h1>Lorem ipsum dolor sit,</h1>
+    <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis ducimus necessitatibus alias veniam et culpa
+        facilis temporibus aliquid </h3>
+
+
+    <a href="https://www.youtube.com/watch?v=XP-0oC6vLX4">
+        <center>
+            <img src="mordecai.jpg" alt="imagem">
+        </center>
+    </a>
+    <center>
+        (pode clicar na foto &uarr;&uarr;&uarr;);
+    </center>
+
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <h1>
+        <center>Aqui tem sites e cada um com coisas diferentes, é só apertar em cima!</center>
+    </h1>
+
+
+
+    <br><br><br>
+
+
+    <div class="grid-container">
+        <table>
+            <th>
+                <center>Cartas</center>
+            </th>
+
+        </table>
+
+        <table>
+
+            <th>
+                <center>Fotos</center>
+            </th>
+
+        </table>
+
+        <table>
+
+            <th>
+                <center>Motivos</center>
+            </th>
+
+
+        </table>
+    </div>
+
+    <h1>Lorem ipsum dolor sit,</h1>
+    <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis ducimus necessitatibus alias veniam et culpa
+        facilis temporibus aliquid </h3>
+
+
+
+</body>
+
+</html>
