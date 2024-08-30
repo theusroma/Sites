@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Clone Batel Grill</title>
+</head>
+
+<body bgcolor="grey">
+    <header>
+        <nav>
+            <div id="nav_esq">
+                <a href="https://batelgrill.com.br/home">Home</a>
+                <a href="https://batelgrill.com.br/sobre">Sobre Nós</a>
+                <a href="https://batelgrill.com.br/cardapio" target="_blank">Cardápio</a>
+                <a href="https://batelgrill.com.br/precos">Preços</a>
+                <a href="https://batelgrill.com.br/giftcard">Gift Card</a>
+            </div>
+            <div id="nav_logo"> meio</div>
+            <div id="nav_dir">direito</div>
+        </nav>
+
+
+        
+    </header>
+
+
+    <main>
+
+    </main>
+
+
+
+    <footer>
+        <div class="grid-container">
+            <table>
+                <th>
+                    <a href="cartas.html">
+                    <center>Cartasss</a></center>
+                </th>
+    
+            </table>
+    
+            <table>
+    
+                <th>
+                    <center>Fotos</center>
+                </th>
+    
+            </table>
+    
+            <table>
+    
+                <th>
+                    <center>Motivos</center>
+                </th>
+    
+    
+            </table>
+        </div>
+    </footer>
+</body>
+
+</html>
